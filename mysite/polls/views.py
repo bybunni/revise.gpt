@@ -73,7 +73,7 @@ def summary_from_text(text):
         "Summary:"
     )
     prompt = text + instruction
-    davinci = True
+    davinci = False
     print("Waiting for response...")
     if davinci:
         response = openai.Completion.create(

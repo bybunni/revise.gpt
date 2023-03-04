@@ -5,3 +5,6 @@ __pycache__/
 
 # Ignore database files
 db.sqlite3
+
+# devcontainer files
+devcontainer.json
