@@ -1,0 +1,7 @@
+# .gitignore for a Django python project
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore database files
+db.sqlite3

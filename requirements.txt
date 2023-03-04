@@ -1,0 +1,3 @@
+Django
+openai
+PyPDF2
